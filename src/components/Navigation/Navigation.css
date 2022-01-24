@@ -1,0 +1,18 @@
+.navigation {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: white;
+    padding: 24px 26px;
+    font-size: 1.5rem;
+    font-family: 'Amatic SC', cursive;
+}
+
+a:hover {
+    background-color: #ace0f9;
+    color: black;
+}
